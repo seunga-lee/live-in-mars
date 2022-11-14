@@ -128,7 +128,7 @@ span {
   background-color: black;
   color: white;
   height: 400px;
-  padding: 0 200px;
+  padding: 0 500px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
 
@@ -148,7 +148,7 @@ span {
 }
 
 .page:nth-child(4) {
-  padding: 0 300px;
+  padding: 0 500px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
   padding-top: 100px;
 }
