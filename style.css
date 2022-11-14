@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-  padding: 10px 300px;
+  padding: 10px 500px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -34,7 +34,7 @@ nav a {
 }
 
 .page:first-child {
-  padding: 10px 300px;
+  padding: 10px 500px;
   display: flex;
   height: 500px;
   width: 100vw;
@@ -94,7 +94,7 @@ span {
 }
 
 .page:nth-child(2) {
-  padding: 0 300px;
+  padding: 0 500px;
   padding-top: 200px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
