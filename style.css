@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-  padding: 10px 200px;
+  padding: 10px 300px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -34,7 +34,7 @@ nav a {
 }
 
 .page:first-child {
-  padding: 10px 200px;
+  padding: 10px 300px;
   display: flex;
   height: 500px;
   width: 100vw;
@@ -94,7 +94,7 @@ span {
 }
 
 .page:nth-child(2) {
-  padding: 0 200px;
+  padding: 0 300px;
   padding-top: 200px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
@@ -148,7 +148,7 @@ span {
 }
 
 .page:nth-child(4) {
-  padding: 0 200px;
+  padding: 0 300px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
   padding-top: 100px;
 }
@@ -165,6 +165,7 @@ span {
 
 .service-contents {
   display: flex;
+  justify-content: space-between;
 }
 
 .service-content {
