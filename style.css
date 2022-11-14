@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Zen+Kaku+Gothic+Antique:wght@400;700&family=Zen+Old+Mincho:wght@400;600&display=swap");
 
 body {
+  height: 1200px;
   font-family: "Poppins", sans-serif;
 }
 
